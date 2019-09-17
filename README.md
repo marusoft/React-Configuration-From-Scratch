@@ -1,2 +1,2 @@
 # React-Configuration-From-Scratch
-Makeup lovers often want to find a single source of reliable data about their favourite makup products.
+[How to set up & deploy your React app from scratch using Webpack and Babel](https://www.freecodecamp.org/news/how-to-set-up-deploy-your-react-app-from-scratch-using-webpack-and-babel-a669891033d4/amp/)
